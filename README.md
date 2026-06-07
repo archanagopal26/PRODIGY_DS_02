@@ -41,9 +41,9 @@ Before analyzing trends, the raw dataset was cleaned and structured within Excel
 ---
 
 ## Visualizations
-![Survival Trends by Gender](gender_survival_chart.png)
+![Survival Trends by Gender](gender survival chart.png)
 
-![Survival Trends by Ticket Class](class_survival_chart.png)
+![Survival Trends by Ticket Class](class survival chart.png)
 
 ---
 
