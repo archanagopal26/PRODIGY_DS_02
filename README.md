@@ -41,12 +41,9 @@ Before analyzing trends, the raw dataset was cleaned and structured within Excel
 ---
 
 ## Visualizations
+![Survival Trends by Gender](gender_survival_chart.png)
 
-### Trend A: Passenger Survival Distribution by Gender
-![Survival Trends by Gender](gender survival chart.png)
-
-### Trend B: Passenger Survival Distribution by Ticket Class
-![Survival Trends by Ticket Class](class survival chart.png)
+![Survival Trends by Ticket Class](class_survival_chart.png)
 
 ---
 
